@@ -1,0 +1,14 @@
+{
+  "name": "xockett",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.6",
+      "ejs": "~0.7.1",
+      "socket.io": "~0.9.6"
+  },
+  "engines": {
+    "node": "0.6.x"
+  }
+}
+
